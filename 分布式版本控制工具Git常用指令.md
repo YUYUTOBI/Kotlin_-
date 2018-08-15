@@ -52,7 +52,17 @@
 
 - git   remote    add   origin 加关联地址   //与远程仓库相关联
 
-- git   push   -u  origin  master                  //把本地服务器的内容推送到远程仓库 
+- git   push   -u  origin  master                  //把本地服务器的内容推送到远程仓库的主分支上
+
+- git  push  origin  分支名                          //推送其他分支
+
+- git   clone     加克隆地址                          //克隆一个本地库 
+
+- git  branch  -a                                           //查看远程分支
+
+- git  checkout  加分支名                           //切换到指定分支
+
+- git  pull                                                     //拉取最新代码  
 
   
 
