@@ -4,9 +4,9 @@
 
 - git  config  --global user.email  "@邮箱地址"
 
-- git  init                        //通过命令把这个目录变成Git可以管理的仓库
+- git  init                                                           //通过命令把这个目录变成Git可以管理的仓库
 
-- touch   .gitignore     //在工程目录下生成忽略文件，可编写忽略文件https://github.com/github/gitignore忽略写法
+- touch   .gitignore                                        //在工程目录下生成忽略文件，可编写忽略文件https://github.com/github/gitignore
 
 - git  status                                                  //获取当前更新，以及当前提交状态
 
